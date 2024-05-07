@@ -17,4 +17,3 @@ def diagonalDifference(arr):
     return abs(d1 - d2)
 
 print(diagonalDifference(arr))
-
